@@ -1,0 +1,5 @@
+Aluno;    idade;   curso;
+Pedro;     20;    sistinfo
+Ana;       20;    sistinfo
+Vinicius;  19;    sistinfo
+Luis;      20;    sistinfo
